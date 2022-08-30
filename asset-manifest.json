@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://msaadnaeem.github.io/csb-x9p0j5/static/css/main.77302c6d.chunk.css",
+    "main.js": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/main.bf6cad8a.chunk.js",
+    "main.js.map": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/main.bf6cad8a.chunk.js.map",
+    "runtime-main.js": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/runtime-main.9f2c16d7.js",
+    "runtime-main.js.map": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/runtime-main.9f2c16d7.js.map",
+    "static/js/2.e82944e3.chunk.js": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/2.e82944e3.chunk.js",
+    "static/js/2.e82944e3.chunk.js.map": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/2.e82944e3.chunk.js.map",
+    "index.html": "https://msaadnaeem.github.io/csb-x9p0j5/index.html",
+    "static/css/main.77302c6d.chunk.css.map": "https://msaadnaeem.github.io/csb-x9p0j5/static/css/main.77302c6d.chunk.css.map",
+    "static/js/2.e82944e3.chunk.js.LICENSE.txt": "https://msaadnaeem.github.io/csb-x9p0j5/static/js/2.e82944e3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f2c16d7.js",
+    "static/js/2.e82944e3.chunk.js",
+    "static/css/main.77302c6d.chunk.css",
+    "static/js/main.bf6cad8a.chunk.js"
+  ]
+}
